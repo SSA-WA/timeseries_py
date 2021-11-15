@@ -93,7 +93,7 @@ All times in Australian Western Standard Time (AWST UTC+8).
 
 Dr Manuel Herrera is a Research Associate in distributed intelligent systems at the University of Cambridge. He has a PhD in Hydraulic Engineering and a degree in Statistics. His research focuses on predictive analytics and complex (adaptive) networks for smart and resilient critical infrastructure and utilities. Manuel’s interdisciplinary profile has proven to be successful in terms of the number and quality of publications; having a high academic impact. His latest research deals with AI-enabled management and maintenance of the UK national infrastructure. He is currently involved in projects of topics ranging from telecommunications to 5G ports. Manuel is a fellow of the Royal Statistical Society and a member of IEEE and the Complex Systems Society.
 
-## Code of Conduct
+## [Code of Conduct](#code-of-conduct)
 
 The organisers of Time Series Data Mining with Python are committed to providing a workshop that is welcoming and safe for all participants, is free from unlawful discrimination and harassment, and where all participants are treated with dignity and respect. Harassment is unlawful under both federal and all Australian state anti-discrimination laws, and as such, people suspected of such misconduct may be reported to authorities. Adherence to this Code of Conduct is a requirement for all workshop participants and sponsors, and covers all aspects of this workshop, including sessions and breaks, all social events and all communication, including that via email or social media (including but not limited to Facebook and Twitter) associated with the workshop. Unacceptable behaviour includes, but is not limited to:
 
