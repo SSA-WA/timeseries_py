@@ -48,11 +48,46 @@ This workshop will introduce time series data mining techniques using Symbolic A
 
 Matrix profile is a more advanced technique than SAX for time-series data mining. The workshop will introduce its theoretical basics while using the Python library `matrixprofile` for motif and novelty/discord discovery. The first, aiding to extract the most common patterns in a time series and the latter, to detect points and subsequences of potential anomalies. Other data mining problems, such as clustering and shapelet discovery for time series classification, will also be explored.
 
-This session cover:
+This session covers:
 * Use the Python library `saxpy` to work with SAX on time-series dimension reduction, clustering and classification.
 * Explore the Python library `tslearn` for basic analysis based on SAX as well as for other machine learning techniques for time series.
 * Work on time-series data mining using matrix profile and the Python library `matrixprofile`.
 * Matrix profile analysis will include the discovery of time series discords that will lead to new possibilities for anomaly detection.
+
+## Timetable
+
+All times in Australian Western Standard Time (AWST UTC+8).
+
+### Day 1
+
+| Time | Task | Outcome |
+| ---- | ---- | ------- |
+| 13:30 | 1. Working environment | What is Google Colab about? |
+| 13:45 | 2. Basics of Python | How can I import/export time series in Python? |
+| 14:00 | 3. Basics of Python | How can I make preprocessing of time series data? |
+| 14:45 | 4. Basics of Python | How can I plot time series data? |
+| 15:30 | 5. Afternoon Coffee | Break |
+| 16:00 | 6. Basic patterns in time series | How can a time series be split into its  main components? |
+| 16:15 | 7. Stationarity | How to identify if a series is stationary or not? How to make a time series stationary? |
+| 16:45 | 8. Missing data | How to treat missing values in a time series? |
+| 17:15 | 9. Basic analysis and forecasting | How to compute partial autocorrelation function? How to build a forecasting model using ARIMA? |
+| 17:45 | 10. Revision | Q&A and reserved time for participants |
+| 18:00 | Day 1 Finished! |
+
+### Day 2
+
+| Time | Task | Outcome |
+| ---- | ---- | ------- |
+| 13:30 | 1. Intro to SAX | What is SAX about? |
+| 13:45 | 2. SAX representation | How can I reduce the dimension of a time series? |
+| 14:30 | 3. SAX for time series clustering | How can I use SAX for time series  clustering? |
+| 15:00 | 4. SAX for time series classification | How can I use SAX for time series classification? |
+| 15:30 | 5. Afternoon Coffee | Break |
+| 16:00 | 6. Intro to matrix profile | What is matrix profile about? |
+| 16:30 | 7. Matrix profile for pattern discovery | How can I discover motifs and discords in a time series? Are those discords anomalies? |
+| 17:00 | 8. Other data mining tools | What are shapelets and how can I discover them in a time series? How can I make clustering of multiple time series? |
+| 17:30 | 9. Revision | Q&A and reserved time for participants |
+| 18:00 | Day 2 Finished! |
 
 ## About the Speaker
 
