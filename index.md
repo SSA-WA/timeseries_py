@@ -109,8 +109,8 @@ To report violations of this Code of Conduct, alert a member of the Response Tea
 
 ### Code of Conduct Response Team
 
+* Nicola Armstrong, Curtin University, <nicola.armstrong@curtin.edu.au>
 * Shih Ching Fu, Curtin University, <shih.ching.fu@gmail.com> 
-*	…
 
 If an individual participates in unacceptable behaviour, the Response Team may take lawful action that they deem appropriate, including asking the individual to stop or removal of the individual from the workshop without refund of registration and/or other applicable fees. 
 
