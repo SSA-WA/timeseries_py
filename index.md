@@ -54,7 +54,7 @@ This session covers:
 * Work on time-series data mining using matrix profile and the Python library `matrixprofile`.
 * Matrix profile analysis will include the discovery of time series discords that will lead to new possibilities for anomaly detection.
 
-## Timetable
+## [Programme](#programme)
 
 All times in Australian Western Standard Time (AWST UTC+8).
 
@@ -92,3 +92,35 @@ All times in Australian Western Standard Time (AWST UTC+8).
 ## About the Speaker
 
 Dr Manuel Herrera is a Research Associate in distributed intelligent systems at the University of Cambridge. He has a PhD in Hydraulic Engineering and a degree in Statistics. His research focuses on predictive analytics and complex (adaptive) networks for smart and resilient critical infrastructure and utilities. Manuel’s interdisciplinary profile has proven to be successful in terms of the number and quality of publications; having a high academic impact. His latest research deals with AI-enabled management and maintenance of the UK national infrastructure. He is currently involved in projects of topics ranging from telecommunications to 5G ports. Manuel is a fellow of the Royal Statistical Society and a member of IEEE and the Complex Systems Society.
+
+## Code of Conduct
+
+The organisers of Time Series Data Mining with Python are committed to providing a workshop that is welcoming and safe for all participants, is free from unlawful discrimination and harassment, and where all participants are treated with dignity and respect. Harassment is unlawful under both federal and all Australian state anti-discrimination laws, and as such, people suspected of such misconduct may be reported to authorities. Adherence to this Code of Conduct is a requirement for all workshop participants and sponsors, and covers all aspects of this workshop, including sessions and breaks, all social events and all communication, including that via email or social media (including but not limited to Facebook and Twitter) associated with the workshop. Unacceptable behaviour includes, but is not limited to:
+
+*	Harassment, including verbal comments relating to gender, sexual orientation, disability, race, ethnicity, religion, age, national origin, gender identity or expression, or physical appearance.
+*	Inappropriate and/or unwanted physical contact.
+*	Unwelcome sexual attention, which can include inappropriate questions of a sexual nature, asking for sexual favours or repeatedly asking for dates or contact information.
+*	Stalking or deliberate intimidation.
+*	Unwanted photography or recording (if you are asked to stop photographing or recording someone, please do so; if someone indicates that they do not want to be photographed or recorded, do not record or photograph them).
+*	Discriminatory or sexual images in public spaces.
+*	Sustained or wilful disruption of talks or other events.
+
+To report violations of this Code of Conduct, alert a member of the Response Team (names and contact details listed below). Reports may be made by people subject to, or witnesses of, unacceptable behaviour.
+
+### Code of Conduct Response Team
+
+* Shih Ching Fu, Curtin University, <shih.ching.fu@gmail.com> 
+*	…
+
+If an individual participates in unacceptable behaviour, the Response Team may take lawful action that they deem appropriate, including asking the individual to stop or removal of the individual from the workshop without refund of registration and/or other applicable fees. 
+
+Reports of unacceptable behaviour may be communicated to the Statistical Society of Australia, and individuals who participate in unacceptable behaviour may face consequences including being disallowed from attending future events. Individuals who are ejected will not be allowed to give any planned oral or poster presentations, and their place may be allocated to another attendee. The reason for the replacement presentation may also be announced (e.g., “Professor X has violated this event’s code of conduct and has been asked to leave and therefore will not be able to present today, in their place we will instead hear from …”). 
+
+Violations may be reported to the individual’s employer or research funders. Statistical Society of Australia members may have their membership cancelled without refund of membership fees.
+
+All efforts will be made to protect the anonymity of persons reporting violations. Persons reporting violations of the Code may request that their report remain confidential and that no further action be taken. However, if the Code of Conduct Response Team deems it necessary for the safety of event attendees, action will be taken, including referral of the report to the Statistical Society of Australia.
+
+This Code of Conduct is designed to ensure that this event can be enjoyed by all participants. We hope you have an inspiring and enjoyable time.
+
+
+
